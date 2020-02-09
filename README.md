@@ -1,5 +1,5 @@
 Task:
-* [checkio](https://github.com/GolDOragon/Some-tasks-on-Python/tree/master/checkio)
+* Checkio
   * [Elementary](https://github.com/GolDOragon/Some-tasks-on-Python/tree/master/checkio/Elementary)
   * [Home](https://github.com/GolDOragon/Some-tasks-on-Python/tree/master/checkio/Home)
   * [Electronic Station](https://github.com/GolDOragon/Some-tasks-on-Python/tree/master/checkio/ElectronicStation)
